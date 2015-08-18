@@ -1,1 +1,1 @@
-This wordpress plugin will let you to see that if a registered user has seen the post or not
+This plugin will help you to check if a registered user has viewed the post or not.
