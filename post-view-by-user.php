@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Post View by User
-Description: This plugin will help you to check if a user has view the post or not. Author email: <a href="mailto:sshuvro58@gmail.com">sshuvro58@gmail.com</a>
+Description: This plugin will help you to check if a registered user has viewed the post or not.
 Author: Mithun Sarker Shuvro
-Version: 2.0
+Version: 1.0
 License: GPLv2
 */
 
