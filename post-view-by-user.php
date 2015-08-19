@@ -16,7 +16,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
  
 You should have received a copy of the GNU General Public License
-along with Post View by User.
+along with Post View by User.If not, see https://www.gnu.org/licenses/gpl-2.0.txt 
 
 */
 
