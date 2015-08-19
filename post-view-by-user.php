@@ -3,6 +3,7 @@
 Plugin Name: Post View by User
 Description: This plugin will help you to check if a registered user has viewed the post or not.
 Author: Mithun Sarker Shuvro
+Author URI: https://www.facebook.com/sshuvro58
 Version: 1.0
 License: GPLv2
 Post View by User is free software: you can redistribute it and/or modify
