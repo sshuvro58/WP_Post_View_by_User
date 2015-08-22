@@ -89,7 +89,7 @@ function pvbu_posts_column_views($defaults){
 }
 function pvbu_posts_custom_column_views($column_name){
     if($column_name === 'post_views'){
-        echo getPostViews(get_the_ID());
+        echo pvbu_getPostViews(get_the_ID());
     }
 }
 
@@ -97,7 +97,7 @@ function pvbu_posts_custom_column_views($column_name){
 
 function pvbu_work(){
 	if(is_single(get_the_ID())){
-			setPostViews(get_the_ID());
+			pvbu_setPostViews(get_the_ID());
 	}
 }
 
